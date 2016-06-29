@@ -1,0 +1,32 @@
+{
+  "name": "@panstav/git-ignore",
+  "version": "0.0.0",
+  "description": "A command-line bit to generate .gitignore the way i like 'em",
+  "main": "cli.js",
+  "bin": {
+    "git-ignore": "cli.js"
+  },
+  "dependencies": {
+    "mkpath": "1.0.0",
+    "promptly": "2.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/panstav/git-ignore.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Stav Geffen",
+    "email": "stavgeffen@gmail.com",
+    "url": "http://www.stav.io"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/panstav/git-ignore/issues"
+  },
+  "homepage": "https://github.com/panstav/git-ignore#readme"
+}
