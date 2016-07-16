@@ -1,6 +1,6 @@
 {
   "name": "@panstav/git-ignore",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "A command-line bit to generate common .gitignore configs",
   "main": "cli.js",
   "bin": {
